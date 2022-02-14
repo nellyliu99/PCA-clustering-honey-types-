@@ -3,4 +3,4 @@
 - Clustering the label using Principal Component Analysis (PCA)
 - PCA result in png images
 
-![EN-1W-PCA](https://user-images.githubusercontent.com/79682719/153844966-3a3ec824-f89b-4686-9cdd-7d5ebf259ecc.png)
+![EN-2W-PCA](https://user-images.githubusercontent.com/79682719/153845101-b0d424c4-0e68-4f4e-813c-cb2279e45546.png)
